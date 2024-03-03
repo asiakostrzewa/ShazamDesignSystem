@@ -6,8 +6,8 @@ nav_order: 1
 
 Create more engaging experiences using simple, intuitive and consistent Shazam's branding guidelines.
 
-[Branding](<Branding.md>)  
+[Branding](./docs/Branding.md)  
 
-[Components](<Components.md>)  
+[Components](./docs/Components.md)  
 
-[Templates](<Templates.md>)
+[Templates](./docs/Templates.md)

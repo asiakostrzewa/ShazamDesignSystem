@@ -38,14 +38,6 @@ The Shazam logo is available in two colors: blue and gray. The blue version is d
 | ![Shazam light blue logo icon](../links/Shazam_light_blue.png) | ![Shazam light gray logo icon](../links/Shazam_light_gray.png) |
 
 <!-- 
-opcje logotypu: 
-biały na niebieskim tle bez nazwy
-biały na jasnoniebieskim tle bez nazwy
-biały na czarnym tle bez nazwy
-biały na szarym tle bez nazwy
--->
-
-<!-- 
 do and dont's / best practices
 ### Button
 ### Icons

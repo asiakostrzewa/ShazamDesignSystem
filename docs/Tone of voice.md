@@ -2,7 +2,7 @@
 title: Tone of voice
 layout: default
 parent: Branding
-nav_order: 2
+nav_order: 4
 ---
 
 ### Tone of voice

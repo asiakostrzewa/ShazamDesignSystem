@@ -1,7 +1,7 @@
 ---
 title: Card
 layout: default
-nav_order: 9
+nav_order: 19
 parent: Components
 ---
 

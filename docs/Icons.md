@@ -1,7 +1,7 @@
 ---
 title: Icons
 layout: default
-nav_order: 5
+nav_order: 15
 parent: Components
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Typography
 layout: default
-nav_order: 1
+nav_order: 11
 parent: Components
 ---
  

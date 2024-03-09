@@ -2,7 +2,6 @@
 title: Components
 layout: default
 nav_order: 3
-parent: Home
 has_children: true
 ---
 

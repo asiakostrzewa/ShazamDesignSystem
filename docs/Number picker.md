@@ -1,7 +1,7 @@
 ---
 title: Number picker
 layout: default
-nav_order: 22
+nav_order: 13
 parent: Components
 ---
 

@@ -2,7 +2,7 @@
 title: Vocabulary
 layout: default
 parent: Branding
-nav_order: 8
+nav_order: 6
 ---
 
 ### Vocabulary

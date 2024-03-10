@@ -1,7 +1,7 @@
 ---
 title: Date and time
 layout: default
-nav_order: 24
+nav_order: 7
 parent: Components
 ---
 

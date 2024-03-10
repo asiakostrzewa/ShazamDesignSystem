@@ -1,8 +1,7 @@
 ---
 title: Templates
 layout: default
-nav_order: 27
-parent: Home
+nav_order: 3
 ---
 
 ## Templates

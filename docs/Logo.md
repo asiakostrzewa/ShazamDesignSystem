@@ -1,7 +1,7 @@
 ---
 title: Logo
 layout: default
-nav_order: 13
+nav_order: 10
 parent: Components
 ---
 

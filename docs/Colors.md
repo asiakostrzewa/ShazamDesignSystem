@@ -1,7 +1,7 @@
 ---
 title: Colors
 layout: default
-nav_order: 12
+nav_order: 6
 parent: Components
 ---
 

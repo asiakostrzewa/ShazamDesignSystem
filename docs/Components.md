@@ -1,8 +1,7 @@
 ---
 title: Components
 layout: default
-nav_order: 10
-parent: Home
+nav_order: 2
 has_children: true
 ---
 

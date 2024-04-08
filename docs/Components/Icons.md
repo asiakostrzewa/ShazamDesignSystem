@@ -1,8 +1,8 @@
 ---
-title: Checkbox
+title: Icons
 layout: default
-nav_order: 5
+nav_order: 6
 parent: Components
 ---
 
-### Checkbox
+### Icons

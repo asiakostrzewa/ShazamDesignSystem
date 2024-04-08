@@ -1,7 +1,7 @@
 ---
 title: Notification
 layout: default
-nav_order: 12
+nav_order: 9
 parent: Components
 ---
 

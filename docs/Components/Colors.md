@@ -1,8 +1,8 @@
 ---
-title: Icons
+title: Colors
 layout: default
-nav_order: 9
+nav_order: 4
 parent: Components
 ---
 
-### Icons
+### Colors

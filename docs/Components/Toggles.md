@@ -13,9 +13,7 @@ Depending on the context, users may click, tap or drag a toggle.
 ![Toggles explanation](./links/Toggles.PNG)
 
 {: .warning }
-**DON'T**  
 Don’t use the name "*toggle*" in user materials. The toggle is used for internal purposes only.
 
 {: .good }
-**DO**  
 Use "*turn on/off*" or "*switch between*" instead of "*toggle*".

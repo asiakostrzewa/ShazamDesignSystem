@@ -6,3 +6,12 @@ url: https://asiakostrzewa/ShazamDesignSystem
 
 aux_links:
   Template Repository: https://github.com/asiakostrzewa/ShazamDesignSystem
+
+callouts_level: quiet
+callouts:
+  good:
+    title: DO
+    color: green
+  warning:
+    title: DON'T
+    color: red

@@ -1,3 +1,25 @@
+---
+layout: default
+title: tests
+nav_order: 5
+---
+
+# tests
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Color schemes
+
+Just the Docs supports two color schemes: light (default), and dark.
+
+
 # Define Jekyll collections
 collections:
   # Define a collection named "tests", its documents reside in the "_tests" directory

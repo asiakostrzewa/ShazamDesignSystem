@@ -15,3 +15,5 @@ Find all necessary templates in [Apple Design Resources](https://developer.apple
 - **iOS**, Android, web, desktop, **mobile**, tablet, Chrome Extension
 - themes: dark, light
 -->
+
+{: .back_to_top: false }

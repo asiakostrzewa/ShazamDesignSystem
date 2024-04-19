@@ -20,8 +20,6 @@ These guidelines include information how to apply them to achieve product consis
 
 ---
 
-## Accessibility
-
 ## Button
 
 ## Card
@@ -71,5 +69,226 @@ Don’t use the name "*toggle*" in user materials. The toggle is used for intern
 Use "*turn on/off*" or "*switch between*" instead of "*toggle*".
 
 ## Typography
- 
-NeueMontreal - to check
+
+Follow this section for detailed guidelines on application of the different size, weight and color options.
+
+SF Pro Display is a sans-serif font that is modern and provides clear and easy reading in all different weight options.
+
+![Weights of font SF Pro Display](../links/Typography_font.PNG)
+
+### Weights
+There are specific rules about what weights should be used and where they fit.
+
+SF Pro is available in a variety of weights to suit different applications. Make sure to place your text and use spacing and kerning to ensure uninterrupted readability and clarity.
+
+![Tables of font styles](../links/Typography_font_styles.PNG)
+
+#### Large title
+The Large title should be set in: 
+- SF Pro Display Regular
+- SF Pro Display Bold
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+
+#### Title 1
+The Title 1 should be set in: 
+- SF Pro Display Regular
+- SF Pro Display Bold
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+
+#### Title 2
+The Title 2 should be set in: 
+- SF Pro Display Regular
+- SF Pro Display Bold
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+
+#### Title 3
+The Title 3 should be set in: 
+- SF Pro Display Regular
+- SF Pro Display Semibold
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+
+#### Headline
+The Headline should be set in: 
+- SF Pro Display Semibold
+- SF Pro Display Semibold Italic
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+
+#### Body
+The Body should be set in: 
+- SF Pro Display Regular
+- SF Pro Display Semibold
+- SF Pro Display Regular Italic
+- SF Pro Display Semibold Italic
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+
+#### Callout
+The Callout should be set in: 
+- SF Pro Display Regular
+- SF Pro Display Semibold
+- SF Pro Display Regular Italic
+- SF Pro Display Semibold Italic
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+
+#### Subheadline
+The Subheadline should be set in:
+- SF Pro Display Regular
+- SF Pro Display Semibold
+- SF Pro Display Regular Italic
+- SF Pro Display Semibold Italic
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+
+#### Footnote
+The Footnote should be set in:
+- SF Pro Display Regular
+- SF Pro Display Semibold
+- SF Pro Display Regular Italic
+- SF Pro Display Semibold Italic
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+
+#### Caption 1
+The Caption 1 should be set in:
+- SF Pro Display Regular
+- SF Pro Display Medium
+- SF Pro Display Regular Italic
+- SF Pro Display Medium Italic
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+
+#### Caption 2
+The Caption 2 should be set in:
+- SF Pro Display Regular
+- SF Pro Display Semibold
+- SF Pro Display Regular Italic
+- SF Pro Display Semibold Italic
+
+
+|       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
+| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+
+Accessibility sizes
+
+|       | AX1 | AX2 | AX3 | AX4 | AX5 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
+| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |

@@ -13,6 +13,9 @@ favicon_ico: "/links/Shazam_blue.png"
 
 callouts_level: quiet
 callouts:
+  note:
+    title: NOTE
+    color: blue
   good:
     title: DO
     color: green

@@ -26,6 +26,14 @@ These guidelines include information how to apply them to achieve product consis
 
 ## Colors
 
+### System backgrounds
+
+TBD
+
+{: .warning }
+Don’t use color to convey positive or negative qualities.
+Avoid assigning good and bad values to colors (for example: a blacklist or a white hat hacker) or using colors as metaphors to convey larger concepts. Use colors only to describe actual colors (for example: black text on a white background).
+
 ## Date and time
 
 ## Icons
@@ -109,15 +117,15 @@ The Title 1 should be set in:
 
 |       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
-| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+| Font size   | 25 pt       | 26 pt      | 27 pt       | 28 pt       | 30 pt       | 32 pt       | 34 pt       |
+| Line spacing   | 31 pt        | 32 pt        | 33 pt        | 34 pt        | 36 pt        | 39 pt        | 41 pt        |
 
 Accessibility sizes
 
 |       | AX1 | AX2 | AX3 | AX4 | AX5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
-| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+| Font size   | 38 pt       | 43 pt      | 48 pt       | 53 pt       | 58 pt       |
+| Line spacing   | 46 pt        | 51 pt        | 57 pt        | 62 pt        | 68 pt        |
 
 #### Title 2
 The Title 2 should be set in: 
@@ -127,15 +135,15 @@ The Title 2 should be set in:
 
 |       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
-| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+| Font size   | 19 pt       | 20 pt      | 21 pt       | 22 pt       | 24 pt       | 26 pt       | 28 pt       |
+| Line spacing   | 23 pt        | 24 pt        | 28 pt        | 28 pt        | 30 pt        | 32 pt        | 34 pt        |
 
 Accessibility sizes
 
 |       | AX1 | AX2 | AX3 | AX4 | AX5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
-| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+| Font size   | 34 pt       | 43 pt      | 44 pt       | 50 pt       | 56 pt       |
+| Line spacing   | 41 pt        | 51 pt        | 52 pt        | 59 pt        | 66 pt        |
 
 #### Title 3
 The Title 3 should be set in: 
@@ -145,15 +153,15 @@ The Title 3 should be set in:
 
 |       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
-| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+| Font size   | 17 pt       | 18 pt      | 19 pt       | 20 pt       | 22 pt       | 24 pt       | 26 pt       |
+| Line spacing   | 22 pt        | 23 pt        | 24 pt        | 25 pt        | 28 pt        | 30 pt        | 32 pt        |
 
 Accessibility sizes
 
 |       | AX1 | AX2 | AX3 | AX4 | AX5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
-| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+| Font size   | 31 pt       | 37 pt      | 43 pt       | 43 pt       | 55 pt       |
+| Line spacing   | 38 pt        | 44 pt        | 51 pt        | 51 pt        | 65 pt        |
 
 #### Headline
 The Headline should be set in: 
@@ -163,15 +171,15 @@ The Headline should be set in:
 
 |       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
-| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+| Font size   | 14 pt       | 15 pt      | 16 pt       | 17 pt       | 19 pt       | 21 pt       | 23 pt       |
+| Line spacing   | 19 pt        | 20 pt        | 21 pt        | 22 pt        | 24 pt        | 26 pt        | 29 pt        |
 
 Accessibility sizes
 
 |       | AX1 | AX2 | AX3 | AX4 | AX5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
-| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+| Font size   | 28 pt       | 33 pt      | 40 pt       | 47 pt       | 53 pt       |
+| Line spacing   | 34 pt        | 40 pt        | 48 pt        | 56 pt        | 62 pt        |
 
 #### Body
 The Body should be set in: 
@@ -183,15 +191,15 @@ The Body should be set in:
 
 |       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
-| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+| Font size   | 14 pt       | 15 pt      | 16 pt       | 17 pt       | 19 pt       | 21 pt       | 23 pt       |
+| Line spacing   | 19 pt        | 20 pt        | 21 pt        | 22 pt        | 24 pt        | 26 pt        | 29 pt        |
 
 Accessibility sizes
 
 |       | AX1 | AX2 | AX3 | AX4 | AX5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
-| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+| Font size   | 28 pt       | 33 pt      | 40 pt       | 47 pt       | 53 pt       |
+| Line spacing   | 34 pt        | 40 pt        | 48 pt        | 56 pt        | 62 pt        |
 
 #### Callout
 The Callout should be set in: 
@@ -203,15 +211,15 @@ The Callout should be set in:
 
 |       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
-| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+| Font size   | 13 pt       | 14 pt      | 15 pt       | 16 pt       | 18 pt       | 20 pt       | 22 pt       |
+| Line spacing   | 18 pt        | 19 pt        | 20 pt        | 21 pt        | 23 pt        | 24 pt        | 28 pt        |
 
 Accessibility sizes
 
 |       | AX1 | AX2 | AX3 | AX4 | AX5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
-| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+| Font size   | 26 pt       | 32 pt      | 38 pt       | 44 pt       | 51 pt       |
+| Line spacing   | 32 pt        | 39 pt        | 46 pt        | 52 pt        | 60 pt        |
 
 #### Subheadline
 The Subheadline should be set in:
@@ -223,15 +231,15 @@ The Subheadline should be set in:
 
 |       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
-| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+| Font size   | 12 pt       | 13 pt      | 14 pt       | 15 pt       | 17 pt       | 19 pt       | 21 pt       |
+| Line spacing   | 16 pt        | 18 pt        | 19 pt        | 20 pt        | 22 pt        | 24 pt        | 28 pt        |
 
 Accessibility sizes
 
 |       | AX1 | AX2 | AX3 | AX4 | AX5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
-| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+| Font size   | 25 pt       | 30 pt      | 36 pt       | 42 pt       | 49 pt       |
+| Line spacing   | 31 pt        | 37 pt        | 43 pt        | 50 pt        | 58 pt        |
 
 #### Footnote
 The Footnote should be set in:
@@ -243,15 +251,15 @@ The Footnote should be set in:
 
 |       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
-| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+| Font size   | 12 pt       | 12 pt      | 12 pt       | 13 pt       | 15 pt       | 17 pt       | 19 pt       |
+| Line spacing   | 16 pt        | 16 pt        | 16 pt        | 18 pt        | 20 pt        | 22 pt        | 24 pt        |
 
 Accessibility sizes
 
 |       | AX1 | AX2 | AX3 | AX4 | AX5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
-| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+| Font size   | 23 pt       | 27 pt      | 33 pt       | 38 pt       | 44 pt       |
+| Line spacing   | 29 pt        | 33 pt        | 40 pt        | 46 pt        | 52 pt        |
 
 #### Caption 1
 The Caption 1 should be set in:
@@ -263,15 +271,15 @@ The Caption 1 should be set in:
 
 |       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
-| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+| Font size   | 11 pt       | 11 pt      | 11 pt       | 12 pt       | 14 pt       | 16 pt       | 18 pt       |
+| Line spacing   | 13 pt        | 13 pt        | 13 pt        | 16 pt        | 19 pt        | 21 pt        | 23 pt        |
 
 Accessibility sizes
 
 |       | AX1 | AX2 | AX3 | AX4 | AX5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
-| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+| Font size   | 22 pt       | 26 pt      | 32 pt       | 37 pt       | 43 pt       |
+| Line spacing   | 28 pt        | 32 pt        | 39 pt        | 44 pt        | 51 pt        |
 
 #### Caption 2
 The Caption 2 should be set in:
@@ -283,12 +291,21 @@ The Caption 2 should be set in:
 
 |       | xSmall | Small | Medium | Large | xLarge | xxLarge | xxxLarge |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 31 pt       | 32 pt      | 33 pt       | 34 pt       | 36 pt       | 38 pt       | 40 pt       |
-| Line spacing   | 38 pt        | 39 pt        | 40 pt        | 41 pt        | 43 pt        | 46 pt        | 48 pt        |
+| Font size   | 11 pt       | 11 pt      | 11 pt       | 11 pt       | 13 pt       | 15 pt       | 17 pt       |
+| Line spacing   | 13 pt        | 13 pt        | 13 pt        | 13 pt        | 18 pt        | 20 pt        | 22 pt        |
 
 Accessibility sizes
 
 |       | AX1 | AX2 | AX3 | AX4 | AX5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
-| Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
+| Font size   | 20 pt       | 24 pt      | 29 pt       | 34 pt       | 40 pt       |
+| Line spacing   | 25 pt        | 30 pt        | 35 pt        | 41 pt        | 48 pt        |
+
+### Font colors
+
+Rules for combining our brand colors with our brand fonts depend largely on the background color.
+
+See [System backgrounds](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#system-backgrounds).
+
+{: .note }
+Note that only one accent color can be used at a time.

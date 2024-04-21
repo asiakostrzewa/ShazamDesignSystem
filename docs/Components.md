@@ -30,6 +30,14 @@ These guidelines include information how to apply them to achieve product consis
 
 TBD
 
+### System colors
+
+TBD
+
+{: .note }
+Note that only one system color can be used at a time.  
+Never mix system colors. Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.
+
 {: .warning }
 Don’t use color to convey positive or negative qualities.
 Avoid assigning good and bad values to colors (for example: a blacklist or a white hat hacker) or using colors as metaphors to convey larger concepts. Use colors only to describe actual colors (for example: black text on a white background).
@@ -305,7 +313,28 @@ Accessibility sizes
 
 Rules for combining our brand colors with our brand fonts depend largely on the background color.
 
-See [System backgrounds](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#system-backgrounds).
+See [System backgrounds](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#system-backgrounds) and [System colors](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#system-colors).
+
+The tables below describe the acceptable font style and color - depending on the background color:
+
+- for light system background:  
+
+|       | System color |
+| ----------- | ----------- |
+| Large Title, Title 1, Title 2, Title 3, Headline  | ![Font colors for Large Title, Title 1, Title 2, Title 3, Headline ](../links/Font_colors1.PNG)       |
+| Body, Subhead, Footnote, Caption 1, Caption 2   | ![Font colors for Body, Subhead, Footnote, Caption 1 and Caption 2](../links/Font_colors3.PNG)        |
+| Callout   | ![Font colors for Callout](../links/Font_colors5.PNG)        |
+
+- for dark system background:
+
+|       | System color |
+| ----------- | ----------- |
+| Large Title, Title 1, Title 2, Title 3, Headline  | ![Font colors for Large Title, Title 1, Title 2, Title 3, Headline ](../links/Font_colors2.PNG)       |
+| Body, Subhead, Footnote, Caption 1, Caption 2   | ![Font colors for Body, Subhead, Footnote, Caption 1 and Caption 2](../links/Font_colors4.PNG)        |
+| Callout   | ![Font colors for Callout](../links/Font_colors6.PNG)        |
 
 {: .note }
-Note that only one accent color can be used at a time.
+There are specific rules for combining color and typography: 
+- System colors should be used sparingly.
+- Never use system colors for text in an image. 
+- Never mix system colors. Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.

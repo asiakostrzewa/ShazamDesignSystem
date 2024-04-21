@@ -26,13 +26,45 @@ These guidelines include information how to apply them to achieve product consis
 
 ## Colors
 
-### System backgrounds
+Colors are a powerful design element - they trigger a wide range of thoughts and feelings.  
+That's why the colors shown here are the only ones that may be used when communicating the Shazam brand.
 
-TBD
+![Shazam primary, secondary and system colors](../links/Color_palette.png)
+
+### Primary colors
+
+Primary colors are the most strategic for our brand and should be used most often.  
+Shazam SystemBlue signals discovery, reliability and confidence. Together with SystemWhite, which is a visual enhancer - the primary colors should be used to recognize the Shazam brand.
+
+| SystemBlue| SystemWhite |
+| ----------- | ----------- |
+| ![SystemBlue color](../links/SystemBlue.PNG)  | ![SystemWhite color](../links/SystemWhite.PNG)       |
+| HEX #007AFF  | HEX #FFFFFF        |
+
+### Secondary colors
+
+Secondary colors should be used for subtle decorative purposes.  
+Gray tone shows strength, stability and patience.  
+Light blue signals freshness, reliability and youth.
+
+| SystemBlack | SystemGrey | SystemCyan |
+| ----------- | ----------- | ----------- |
+| ![SystemBlack color](../links/SystemBlack.PNG)  | ![SystemGrey color](../links/SystemGrey.PNG)       | ![SystemCyan color](../links/SystemCyan.PNG)       |
+| HEX #000000 | HEX #5B5B5B | HEX #4DCDFF |
 
 ### System colors
 
-TBD
+System colors have been designed to highlight a specific message or element. These colors should be used sparingly and only one color at a time due to their strength.
+
+| SystemRed | SystemOrange | SystemYellow | SystemGreen | SystemMint |
+| ----------- | ----------- | ----------- | ----------- | ----------- | 
+| ![SystemRed color](../links/SystemRed.PNG)  | ![SystemOrange color](../links/SystemOrange.PNG)       | ![SystemYellow color](../links/SystemYellow.PNG)       | ![SystemGreen color](../links/SystemGreen.PNG)       | ![SystemMint color](../links/SystemMint.PNG)       |
+| HEX #FF3B30 | HEX #FF9500 | HEX #FFCC00 | HEX #34C759 | HEX #00C7BE |
+
+| SystemTeal | SystemIndigo | SystemPurple | SystemPink | SystemBrown |
+| ----------- | ----------- | ----------- | ----------- | ----------- | 
+| ![SystemTeal color](../links/SystemTeal.PNG)  | ![SystemIndigo color](../links/SystemIndigo.PNG)       | ![SystemPurple color](../links/SystemPurple.PNG)       | ![SystemPink color](../links/SystemPink.PNG)       | ![SystemBrown color](../links/SystemBrown.PNG)       |
+| HEX #30B0C7 | HEX #5856D6 | HEX #AF52DE | HEX #FF2D55 | HEX #A2845E |
 
 {: .note }
 Note that only one system color can be used at a time.  
@@ -41,6 +73,19 @@ Never mix system colors. Only one additional system color can be used with Syste
 {: .warning }
 Don’t use color to convey positive or negative qualities.  
 Avoid assigning good and bad values to colors (for example: a blacklist or a white hat hacker) or using colors as metaphors to convey larger concepts. Use colors only to describe actual colors (for example: black text on a white background).
+
+### System backgrounds
+
+Background colors must not disturb the user in receiving information. They must be simple and have an appropriate color contrast with the content components.  
+Shazam uses light and dark Apple system modes.
+
+| SystemBlack| SystemWhite |
+| ----------- | ----------- |
+| ![SystemBlack color](../links/SystemBlack.PNG)  | ![SystemWhite color](../links/SystemWhite.PNG)       |
+| HEX #000000 | HEX #FFFFFF        |
+
+{: .warning }
+Never use system colors as a backgrounds.
 
 ## Date and time
 
@@ -321,7 +366,7 @@ The tables below describe the acceptable font style and color - depending on the
 
 |       | System color |
 | ----------- | ----------- |
-| Large Title, Title 1, Title 2, Title 3, Headline  | ![Font colors for Large Title, Title 1, Title 2, Title 3, Headline ](../links/Font_colors1.PNG)       |
+| Large Title, Title 1, Title 2, Title 3, Headline  | ![Font colors for Large Title, Title 1, Title 2, Title 3, Headline](../links/Font_colors1.PNG)       |
 | Body, Subhead, Footnote, Caption 1, Caption 2   | ![Font colors for Body, Subhead, Footnote, Caption 1 and Caption 2](../links/Font_colors3.PNG)        |
 | Callout   | ![Font colors for Callout](../links/Font_colors5.PNG)        |
 
@@ -329,13 +374,14 @@ The tables below describe the acceptable font style and color - depending on the
 
 |       | System color |
 | ----------- | ----------- |
-| Large Title, Title 1, Title 2, Title 3, Headline  | ![Font colors for Large Title, Title 1, Title 2, Title 3, Headline ](../links/Font_colors2.PNG)       |
+| Large Title, Title 1, Title 2, Title 3, Headline  | ![Font colors for Large Title, Title 1, Title 2, Title 3, Headline](../links/Font_colors2.PNG)       |
 | Body, Subhead, Footnote, Caption 1, Caption 2   | ![Font colors for Body, Subhead, Footnote, Caption 1 and Caption 2](../links/Font_colors4.PNG)        |
 | Callout   | ![Font colors for Callout](../links/Font_colors6.PNG)        |
 
 {: .note }
-There are specific rules for combining color and typography. System colors should be used sparingly.
+There are specific rules for combining color and typography.  
+System colors should be used sparingly.
 
 {: .warning }
-Never use system colors for text in an image. 
+Never use system colors for text in an image.  
 Never mix system colors. Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.

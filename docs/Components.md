@@ -29,7 +29,7 @@ These guidelines include information how to apply them to achieve product consis
 Colors are a powerful design element - they trigger a wide range of thoughts and feelings.  
 That's why the colors shown here are the only ones that may be used when communicating the Shazam brand.
 
-![Shazam primary, secondary and system colors](../links/ColorPalette.png)
+![Shazam primary, secondary and system colors](../links/ColorPalette.PNG)
 
 ### Primary colors
 
@@ -368,15 +368,15 @@ The tables below describe the acceptable font style and color - depending on the
 | ----------- | ----------- |
 | Large Title, Title 1, Title 2, Title 3, Headline  | ![Font colors for Large Title, Title 1, Title 2, Title 3, Headline](../links/Font_colors1.PNG)       |
 | Body, Subhead, Footnote, Caption 1, Caption 2   | ![Font colors for Body, Subhead, Footnote, Caption 1 and Caption 2](../links/Font_colors3.PNG)        |
-| Callout   | ![Font colors for Callout](../links/Font_colors5.PNG)        |
+| Callout   | ![Font colors for Callout](../links/Font_colors4.PNG)        |
 
 - for dark system background:
 
 |       | System color |
 | ----------- | ----------- |
 | Large Title, Title 1, Title 2, Title 3, Headline  | ![Font colors for Large Title, Title 1, Title 2, Title 3, Headline](../links/Font_colors2.PNG)       |
-| Body, Subhead, Footnote, Caption 1, Caption 2   | ![Font colors for Body, Subhead, Footnote, Caption 1 and Caption 2](../links/Font_colors4.PNG)        |
-| Callout   | ![Font colors for Callout](../links/Font_colors6.PNG)        |
+| Body, Subhead, Footnote, Caption 1, Caption 2   | ![Font colors for Body, Subhead, Footnote, Caption 1 and Caption 2](../links/Font_colors3.PNG)        |
+| Callout   | ![Font colors for Callout](../links/Font_colors5.PNG)        |
 
 {: .note }
 There are specific rules for combining color and typography.  

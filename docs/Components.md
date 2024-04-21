@@ -29,7 +29,7 @@ These guidelines include information how to apply them to achieve product consis
 Colors are a powerful design element - they trigger a wide range of thoughts and feelings.  
 That's why the colors shown here are the only ones that may be used when communicating the Shazam brand.
 
-![Shazam primary, secondary and system colors](../links/Color_palette.png)
+![Shazam primary, secondary and system colors](../links/ColorPalette.png)
 
 ### Primary colors
 

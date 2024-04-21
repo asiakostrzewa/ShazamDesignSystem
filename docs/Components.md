@@ -39,7 +39,7 @@ Note that only one system color can be used at a time.
 Never mix system colors. Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.
 
 {: .warning }
-Don’t use color to convey positive or negative qualities.
+Don’t use color to convey positive or negative qualities.  
 Avoid assigning good and bad values to colors (for example: a blacklist or a white hat hacker) or using colors as metaphors to convey larger concepts. Use colors only to describe actual colors (for example: black text on a white background).
 
 ## Date and time
@@ -334,7 +334,8 @@ The tables below describe the acceptable font style and color - depending on the
 | Callout   | ![Font colors for Callout](../links/Font_colors6.PNG)        |
 
 {: .note }
-There are specific rules for combining color and typography: 
-- System colors should be used sparingly.
-- Never use system colors for text in an image. 
-- Never mix system colors. Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.
+There are specific rules for combining color and typography. System colors should be used sparingly.
+
+{: .warning }
+Never use system colors for text in an image. 
+Never mix system colors. Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.

@@ -24,6 +24,37 @@ These guidelines include information how to apply them to achieve product consis
 
 ## Card
 
+Card is a user interface element that contains information and actions related to a single topic. They allow users to easily discover content and features.
+
+{: .note }
+Cards look good on any screen size and resolution, but nevertheless, remember to test their responsiveness.
+
+### Anatomy of card
+![Visualization of basic card elements](../links/AnatomyOfCard.PNG)
+
+### UI card design principles
+1. Efficiency - cards contain only necessary information and actions;
+2. Meaningfulness – cards contain information that helps the users make a decision;
+3. Clarity - content of the card should have a clear visual hierarchy;
+4. Independence - card should be self-contained;
+5. Responsiveness - cards can resize to fit the available space.
+
+{: .good } Use cards for dashboards, menu options and items that can best be perceived visually.
+
+{: .warning } Don't use cards when content should be sorted or filtered.
+
+### Rules in the card UI
+1. **Use appropriate image** to represent the card's theme.
+2. **Prioritize text information** by limiting its content to the necessary minimum. Also, avoid scrolling the text on the card.
+3. **Give clear call-to-action(s)**. If needed, you can use the primary and secondary buttons to help users make decisions.  
+
+![Visualization of primary and secondary buttons](../links/PrimarySecondaryButtons.PNG)
+
+4. **Use simple fonts**. Our SF Pro Display sans-serif font meets this principle.
+5. **Design responsive cards**. Available types of responsible cards:
+
+![Available types of responsible cards](../links/ResponsiveCards.PNG)
+
 ## Colors
 
 Colors are a powerful design element - they trigger a wide range of thoughts and feelings.  
@@ -37,7 +68,7 @@ Primary colors are the most strategic for our brand and should be used most ofte
 Shazam SystemBlue signals discovery, reliability and confidence. Together with SystemWhite, which is a visual enhancer - the primary colors should be used to recognize the Shazam brand.
 
 | SystemBlue| SystemWhite |
-| ----------- | ----------- |
+| :-----------: | :-----------: |
 | ![SystemBlue color](../links/SystemBlue.PNG)  | ![SystemWhite color](../links/SystemWhite.PNG)       |
 | HEX #007AFF  | HEX #FFFFFF        |
 
@@ -48,7 +79,7 @@ Gray tone shows strength, stability and patience.
 Light blue signals freshness, reliability and youth.
 
 | SystemBlack | SystemGrey | SystemCyan |
-| ----------- | ----------- | ----------- |
+| :-----------: | :-----------: | :-----------: |
 | ![SystemBlack color](../links/SystemBlack.PNG)  | ![SystemGrey color](../links/SystemGrey.PNG)       | ![SystemCyan color](../links/SystemCyan.PNG)       |
 | HEX #000000 | HEX #5B5B5B | HEX #4DCDFF |
 
@@ -57,12 +88,12 @@ Light blue signals freshness, reliability and youth.
 System colors have been designed to highlight a specific message or element. These colors should be used sparingly and only one color at a time due to their strength.
 
 | SystemRed | SystemOrange | SystemYellow | SystemGreen | SystemMint |
-| ----------- | ----------- | ----------- | ----------- | ----------- | 
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | 
 | ![SystemRed color](../links/SystemRed.PNG)  | ![SystemOrange color](../links/SystemOrange.PNG)       | ![SystemYellow color](../links/SystemYellow.PNG)       | ![SystemGreen color](../links/SystemGreen.PNG)       | ![SystemMint color](../links/SystemMint.PNG)       |
 | HEX #FF3B30 | HEX #FF9500 | HEX #FFCC00 | HEX #34C759 | HEX #00C7BE |
 
 | SystemTeal | SystemIndigo | SystemPurple | SystemPink | SystemBrown |
-| ----------- | ----------- | ----------- | ----------- | ----------- | 
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | 
 | ![SystemTeal color](../links/SystemTeal.PNG)  | ![SystemIndigo color](../links/SystemIndigo.PNG)       | ![SystemPurple color](../links/SystemPurple.PNG)       | ![SystemPink color](../links/SystemPink.PNG)       | ![SystemBrown color](../links/SystemBrown.PNG)       |
 | HEX #30B0C7 | HEX #5856D6 | HEX #AF52DE | HEX #FF2D55 | HEX #A2845E |
 
@@ -80,7 +111,7 @@ Background colors must not disturb the user in receiving information. They must 
 Shazam uses light and dark Apple system modes.
 
 | SystemBlack| SystemWhite |
-| ----------- | ----------- |
+| :-----------: | :-----------: |
 | ![SystemBlack color](../links/SystemBlack.PNG)  | ![SystemWhite color](../links/SystemWhite.PNG)       |
 | HEX #000000 | HEX #FFFFFF        |
 
@@ -104,7 +135,7 @@ The goal is always to proudly project our brand, but without overdoing it. So wh
 The Shazam logo is available in two colors: blue and gray. The blue version is dedicated to a light theme. The gray version should be used on dark theme.
 
 | Light theme logo icons | Dark theme logo icons |
-| ----------- | ----------- |
+| :-----------: | :-----------: |
 | ![Shazam blue logo icon](../links/Shazam_blue.png) | ![Shazam gray logo icon](../links/Shazam_gray.png) |
 | ![Shazam light blue logo icon](../links/Shazam_light_blue.png) | ![Shazam light gray logo icon](../links/Shazam_light_gray.png) |
 

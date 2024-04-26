@@ -22,6 +22,36 @@ These guidelines include information how to apply them to achieve product consis
 
 ## Button
 
+Buttons initiate an action when the user clicks, taps or presses. They can be represented as text labels or displayed as icons or images.
+
+Find below the available button combinations that can be used to create call-to-action(s) in Shazam Design System:
+
+![Possible button designs](../links/ButtonDesigns.png)
+
+### Forward button
+
+Forward button (also Next button) is usually placed on a toolbar or navigation bar and allows users to move forward to the next screen or webpage.
+Use the right arrow to this button.
+
+![Visualization of forward button with right arrow](../links/ForwardButton.png)
+
+### More button ![More button](../links/MoreButton.png)
+
+More button refers to the ellipsis button that opens a menu with additional options.
+
+### Back button
+
+Back button is usually placed on a toolbar or navigation bar and allows users to return to the previous screen or webpage.
+Use the left arrow to this button.
+
+![Visualization of back button with left arrow](../links/BackButton.png)
+
+### Close button
+
+Close button refers to the rightmost window controls button, located in the upper right corner of the title bar.
+
+![Visualization of close button](../links/CloseButton.png)
+
 ## Card
 
 Card is a user interface element that contains information and actions related to a single topic. They allow users to easily discover content and features.

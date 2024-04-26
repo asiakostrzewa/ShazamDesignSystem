@@ -30,7 +30,7 @@ Card is a user interface element that contains information and actions related t
 Cards look good on any screen size and resolution, but nevertheless, remember to test their responsiveness.
 
 ### Anatomy of card
-![Visualization of basic card elements](../links/AnatomyOfCard.PNG)
+![Visualization of basic card elements](../links/AnatomyOfCard.png)
 
 ### UI card design principles
 1. Efficiency - cards contain only necessary information and actions;
@@ -39,21 +39,23 @@ Cards look good on any screen size and resolution, but nevertheless, remember to
 4. Independence - card should be self-contained;
 5. Responsiveness - cards can resize to fit the available space.
 
-{: .good } Use cards for dashboards, menu options and items that can best be perceived visually.
+{: .good } 
+Use cards for dashboards, menu options and items that can best be perceived visually.
 
-{: .warning } Don't use cards when content should be sorted or filtered.
+{: .warning } 
+Don't use cards when content should be sorted or filtered.
 
 ### Rules in the card UI
 1. **Use appropriate image** to represent the card's theme.
 2. **Prioritize text information** by limiting its content to the necessary minimum. Also, avoid scrolling the text on the card.
 3. **Give clear call-to-action(s)**. If needed, you can use the primary and secondary buttons to help users make decisions.  
 
-![Visualization of primary and secondary buttons](../links/PrimarySecondaryButtons.PNG)
+![Visualization of primary and secondary buttons](../links/PrimarySecondaryButtons.png)
 
 4. **Use simple fonts**. Our SF Pro Display sans-serif font meets this principle.
 5. **Design responsive cards**. Available types of responsible cards:
 
-![Available types of responsible cards](../links/ResponsiveCards.PNG)
+![Available types of responsible cards](../links/ResponsiveCards.png)
 
 ## Colors
 

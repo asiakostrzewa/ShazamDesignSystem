@@ -3,6 +3,7 @@ title: Components
 layout: default
 nav_order: 3
 has_toc: false
+toc_depth: 2
 ---
 
 # Components

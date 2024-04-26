@@ -3,7 +3,6 @@ title: Components
 layout: default
 nav_order: 3
 has_toc: false
-toc_depth: 2
 ---
 
 # Components
@@ -121,7 +120,16 @@ Shazam uses light and dark Apple system modes.
 {: .warning }
 Never use system colors as a backgrounds.
 
-## Date and time
+## Dates
+
+According to [International Organization for Standardization (ISO)](https://www.iso.org){:target="_blank"}, ISO 8601 standard, dates are expressed numerically as year, month, day and are separated by a hyphen. Times are expressed on a 24-hour clock.
+
+Use the date component from [Apple Design Resources](https://developer.apple.com/design/resources/){:target="_blank"} for Shazam app:
+
+![Dates properties](../links/Dates.PNG)
+
+{: .warning }
+Don’t use slashes in dates: the form 3/5/22 is used in America, which is different from the European one.
 
 ## Icons
 

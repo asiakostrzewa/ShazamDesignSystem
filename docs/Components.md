@@ -2,21 +2,23 @@
 title: Components
 layout: default
 nav_order: 3
-has_toc: false
 ---
 
-# Components
-{: .no_toc }
+# Components <!-- omit in toc -->
 
 We use components as the visual elements needed to create engaging interactions and usability experiences. 
 
 These guidelines include information how to apply them to achieve product consistency.
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+## Table of contents <!-- omit in toc -->
+- [Button](#button)
+- [Card](#card)
+- [Colors](#colors)
+- [Dates](#dates)
+- [Symbols and icons](#symbols-and-icons)
+- [Logo](#logo)
+- [Toggles](#toggles)
+- [Typography](#typography)
 
 ---
 
@@ -28,25 +30,25 @@ Find below the available button combinations that can be used to create call-to-
 
 ![Possible button designs](../links/ButtonDesigns.png)
 
-### Forward button
+### Forward button <!-- omit in toc -->
 
 Forward button (also Next button) is usually placed on a toolbar or navigation bar and allows users to move forward to the next screen or webpage.
 Use the right arrow to this button.
 
 ![Visualization of forward button with right arrow](../links/ForwardButton.png)
 
-### More button ![More button](../links/MoreButton.png)
+### More button ![More button](../links/MoreButton.png) <!-- omit in toc -->
 
 More button refers to the ellipsis button that opens a menu with additional options.
 
-### Back button
+### Back button <!-- omit in toc -->
 
 Back button is usually placed on a toolbar or navigation bar and allows users to return to the previous screen or webpage.
 Use the left arrow to this button.
 
 ![Visualization of back button with left arrow](../links/BackButton.png)
 
-### Close button
+### Close button <!-- omit in toc -->
 
 Close button refers to the rightmost window controls button, located in the upper right corner of the title bar.
 
@@ -59,10 +61,10 @@ Card is a user interface element that contains information and actions related t
 {: .note }
 Cards look good on any screen size and resolution, but nevertheless, remember to test their responsiveness.
 
-### Anatomy of card
+### Anatomy of card <!-- omit in toc -->
 ![Visualization of basic card elements](../links/AnatomyOfCard.png)
 
-### UI card design principles
+### UI card design principles <!-- omit in toc -->
 1. Efficiency - cards contain only necessary information and actions;
 2. Meaningfulness – cards contain information that helps the users make a decision;
 3. Clarity - content of the card should have a clear visual hierarchy;
@@ -75,7 +77,7 @@ Use cards for dashboards, menu options and items that can best be perceived visu
 {: .warning } 
 Don't use cards when content should be sorted or filtered.
 
-### Rules in the card UI
+### Rules in the card UI <!-- omit in toc -->
 1. **Use appropriate image** to represent the card's theme.
 2. **Prioritize text information** by limiting its content to the necessary minimum. Also, avoid scrolling the text on the card.
 3. **Give clear call-to-action(s)**. If needed, you can use the primary and secondary buttons to help users make decisions.  
@@ -94,7 +96,7 @@ That's why the colors shown here are the only ones that may be used when communi
 
 ![Shazam primary, secondary and system colors](../links/ColorPalette.PNG)
 
-### Primary colors
+### Primary colors <!-- omit in toc -->
 
 Primary colors are the most strategic for our brand and should be used most often.  
 Shazam SystemBlue signals discovery, reliability and confidence. Together with SystemWhite, which is a visual enhancer - the primary colors should be used to recognize the Shazam brand.
@@ -104,7 +106,7 @@ Shazam SystemBlue signals discovery, reliability and confidence. Together with S
 | ![SystemBlue color](../links/SystemBlue.PNG)  | ![SystemWhite color](../links/SystemWhite.PNG)       |
 | HEX #007AFF  | HEX #FFFFFF        |
 
-### Secondary colors
+### Secondary colors <!-- omit in toc -->
 
 Secondary colors should be used for subtle decorative purposes.  
 Gray tone shows strength, stability and patience.  
@@ -115,7 +117,7 @@ Light blue signals freshness, reliability and youth.
 | ![SystemBlack color](../links/SystemBlack.PNG)  | ![SystemGrey color](../links/SystemGrey.PNG)       | ![SystemCyan color](../links/SystemCyan.PNG)       |
 | HEX #000000 | HEX #5B5B5B | HEX #4DCDFF |
 
-### System colors
+### System colors <!-- omit in toc -->
 
 System colors have been designed to highlight a specific message or element. These colors should be used sparingly and only one color at a time due to their strength.
 
@@ -137,7 +139,7 @@ Never mix system colors. Only one additional system color can be used with Syste
 Don’t use color to convey positive or negative qualities.  
 Avoid assigning good and bad values to colors (for example: a blacklist or a white hat hacker) or using colors as metaphors to convey larger concepts. Use colors only to describe actual colors (for example: black text on a white background).
 
-### System backgrounds
+### System backgrounds <!-- omit in toc -->
 
 Background colors must not disturb the user in receiving information. They must be simple and have an appropriate color contrast with the content components.  
 Shazam uses light and dark Apple system modes.
@@ -167,14 +169,14 @@ Symbols and icons are screen graphics that represents another item. Used in Shaz
 
 App navigation symbols and action buttons are built based on the [Apple Design Resources](https://developer.apple.com/design/resources/){:target="_blank"} and [Apple SF Symbols](https://developer.apple.com/sf-symbols/){:target="_blank"}.
 
-### Rules in symbols and icons UI
+### Rules in symbols and icons UI <!-- omit in toc -->
 - Symbols and icons are always two-dimensional;
 - Only use well-known symbols and icons that are recognized by many;
 - Use the same symbol or icon for common or related purposes;
 - Use symbols and icons sparingly so as not to lose their effect in context;
 - Use rounded corners and oval shapes based on the lettering style of the Shazam wordmark.
 
-### Variants
+### Variants <!-- omit in toc -->
 
 Use symbols and icons depending on the colors of the system mode variants.
 
@@ -182,7 +184,7 @@ Use symbols and icons depending on the colors of the system mode variants.
 
 For symbols and icons, use colors such as SystemBlue, SystemWhite and SystemGrey.
 
-### Shapes alignment
+### Shapes alignment <!-- omit in toc -->
 Shapes of symbols and icons are based on a 1x1 px grid. Use these basic shapes as a baseline to maintain consistent visual proportions of the icons.
 
 ![Icon grid](../links/Grid.png)
@@ -203,7 +205,7 @@ A logo is a visual representation of our brand. It can be a word mark, an icon, 
 
 The goal is always to proudly project our brand, but without overdoing it. So when the users see our products, they immediately recognize our brand.
 
-#### Logo options
+#### Logo options <!-- omit in toc -->
 
 The Shazam logo is available in two colors: blue and gray. The blue version is dedicated to a light theme. The gray version should be used on dark theme.
 
@@ -233,14 +235,14 @@ SF Pro Display is a sans-serif font that is modern and provides clear and easy r
 
 ![Weights of font SF Pro Display](../links/Typography_font.PNG)
 
-### Weights
+### Weights <!-- omit in toc -->
 There are specific rules about what weights should be used and where they fit.
 
 SF Pro is available in a variety of weights to suit different applications. Make sure to place your text and use spacing and kerning to ensure uninterrupted readability and clarity.
 
 ![Tables of font styles](../links/Typography_font_styles.PNG)
 
-#### Large title
+#### Large title <!-- omit in toc -->
 The Large title should be set in: 
 - SF Pro Display Regular
 - SF Pro Display Bold
@@ -258,7 +260,7 @@ Accessibility sizes
 | Font size   | 44 pt       | 48 pt      | 52 pt       | 56 pt       | 60 pt       |
 | Line spacing   | 52 pt        | 57 pt        | 61 pt        | 66 pt        | 70 pt        |
 
-#### Title 1
+#### Title 1 <!-- omit in toc -->
 The Title 1 should be set in: 
 - SF Pro Display Regular
 - SF Pro Display Bold
@@ -276,7 +278,7 @@ Accessibility sizes
 | Font size   | 38 pt       | 43 pt      | 48 pt       | 53 pt       | 58 pt       |
 | Line spacing   | 46 pt        | 51 pt        | 57 pt        | 62 pt        | 68 pt        |
 
-#### Title 2
+#### Title 2 <!-- omit in toc -->
 The Title 2 should be set in: 
 - SF Pro Display Regular
 - SF Pro Display Bold
@@ -294,7 +296,7 @@ Accessibility sizes
 | Font size   | 34 pt       | 43 pt      | 44 pt       | 50 pt       | 56 pt       |
 | Line spacing   | 41 pt        | 51 pt        | 52 pt        | 59 pt        | 66 pt        |
 
-#### Title 3
+#### Title 3 <!-- omit in toc -->
 The Title 3 should be set in: 
 - SF Pro Display Regular
 - SF Pro Display Semibold
@@ -312,7 +314,7 @@ Accessibility sizes
 | Font size   | 31 pt       | 37 pt      | 43 pt       | 43 pt       | 55 pt       |
 | Line spacing   | 38 pt        | 44 pt        | 51 pt        | 51 pt        | 65 pt        |
 
-#### Headline
+#### Headline <!-- omit in toc -->
 The Headline should be set in: 
 - SF Pro Display Semibold
 - SF Pro Display Semibold Italic
@@ -330,7 +332,7 @@ Accessibility sizes
 | Font size   | 28 pt       | 33 pt      | 40 pt       | 47 pt       | 53 pt       |
 | Line spacing   | 34 pt        | 40 pt        | 48 pt        | 56 pt        | 62 pt        |
 
-#### Body
+#### Body <!-- omit in toc -->
 The Body should be set in: 
 - SF Pro Display Regular
 - SF Pro Display Semibold
@@ -350,7 +352,7 @@ Accessibility sizes
 | Font size   | 28 pt       | 33 pt      | 40 pt       | 47 pt       | 53 pt       |
 | Line spacing   | 34 pt        | 40 pt        | 48 pt        | 56 pt        | 62 pt        |
 
-#### Callout
+#### Callout <!-- omit in toc -->
 The Callout should be set in: 
 - SF Pro Display Regular
 - SF Pro Display Semibold
@@ -370,7 +372,7 @@ Accessibility sizes
 | Font size   | 26 pt       | 32 pt      | 38 pt       | 44 pt       | 51 pt       |
 | Line spacing   | 32 pt        | 39 pt        | 46 pt        | 52 pt        | 60 pt        |
 
-#### Subheadline
+#### Subheadline <!-- omit in toc -->
 The Subheadline should be set in:
 - SF Pro Display Regular
 - SF Pro Display Semibold
@@ -390,7 +392,7 @@ Accessibility sizes
 | Font size   | 25 pt       | 30 pt      | 36 pt       | 42 pt       | 49 pt       |
 | Line spacing   | 31 pt        | 37 pt        | 43 pt        | 50 pt        | 58 pt        |
 
-#### Footnote
+#### Footnote <!-- omit in toc -->
 The Footnote should be set in:
 - SF Pro Display Regular
 - SF Pro Display Semibold
@@ -410,7 +412,7 @@ Accessibility sizes
 | Font size   | 23 pt       | 27 pt      | 33 pt       | 38 pt       | 44 pt       |
 | Line spacing   | 29 pt        | 33 pt        | 40 pt        | 46 pt        | 52 pt        |
 
-#### Caption 1
+#### Caption 1 <!-- omit in toc -->
 The Caption 1 should be set in:
 - SF Pro Display Regular
 - SF Pro Display Medium
@@ -430,7 +432,7 @@ Accessibility sizes
 | Font size   | 22 pt       | 26 pt      | 32 pt       | 37 pt       | 43 pt       |
 | Line spacing   | 28 pt        | 32 pt        | 39 pt        | 44 pt        | 51 pt        |
 
-#### Caption 2
+#### Caption 2 <!-- omit in toc -->
 The Caption 2 should be set in:
 - SF Pro Display Regular
 - SF Pro Display Semibold
@@ -450,7 +452,7 @@ Accessibility sizes
 | Font size   | 20 pt       | 24 pt      | 29 pt       | 34 pt       | 40 pt       |
 | Line spacing   | 25 pt        | 30 pt        | 35 pt        | 41 pt        | 48 pt        |
 
-### Font colors
+### Font colors <!-- omit in toc -->
 
 Rules for combining our brand colors with our brand fonts depend largely on the background color.
 

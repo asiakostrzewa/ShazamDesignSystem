@@ -1,6 +1,6 @@
 # Shazam design system proposal
 
-Presented Design System was created based on the iOS mobile application. 
+Presented Design System was created based on the iOS mobile application.  
 Shazam Design System can be expanded to web, desktop, tablet and Chrome Extension versions and also cover the Android operating system.
 
 Prepared for Vistula Academy, 2024-04-26

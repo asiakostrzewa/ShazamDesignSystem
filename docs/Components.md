@@ -161,7 +161,39 @@ Use the date component from [Apple Design Resources](https://developer.apple.com
 {: .warning }
 Don’t use slashes in dates: the form 3/5/22 is used in America, which is different from the European one.
 
-## Icons
+## Symbols and icons
+
+Symbols and icons are onscreen graphics that represents another item. Used in Shazam applications must be clear and recognizable.
+
+App navigation symbols and action buttons are built based on the [Apple Design Resources](https://developer.apple.com/design/resources/){:target="_blank"} and [Apple SF Symbols](https://developer.apple.com/sf-symbols/){:target="_blank"}.
+
+### Rules in symbols and icons UI
+- Symbols and icons are always two-dimensional;
+- Only use well-known symbols and icons that are recognized by many;
+- Use the same symbol or icon for common or related purposes;
+- Use symbols and icons sparingly so as not to lose their effect in context;
+- Use rounded corners and oval shapes based on the lettering style of the Shazam wordmark.
+
+### Variants
+
+Use symbols and icons depending on the colors of the system mode variants.
+
+![Popular Shazam icons](../links/Icons.png)
+
+For symbols and icons, use colors such as SystemBlue, SystemWhite and SystemGrey.
+
+### Shapes alignment
+Shapes of symbols and icons are based on a 1x1 px grid. Use these basic shapes as a baseline to maintain consistent visual proportions of the icons.
+
+![Icon grid](../links/Grid.png)
+
+{: .warning } 
+Don't use straight corners and lines with slanted ends.  
+Don't use shadows.  
+Don't fill in large areas, only fill in details for clarity.
+
+{: .good } 
+Keep a consistent form of symbols and icons.
 
 ## Logo
 
@@ -179,14 +211,6 @@ The Shazam logo is available in two colors: blue and gray. The blue version is d
 | :-----------: | :-----------: |
 | ![Shazam blue logo icon](../links/Shazam_blue.png) | ![Shazam gray logo icon](../links/Shazam_gray.png) |
 | ![Shazam light blue logo icon](../links/Shazam_light_blue.png) | ![Shazam light gray logo icon](../links/Shazam_light_gray.png) |
-
-## Multivariant select
-
-## Notification
-
-## Status messages 
-
-error, info, success, warning
 
 ## Toggles
 

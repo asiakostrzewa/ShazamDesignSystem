@@ -39,7 +39,22 @@ Our content covers our values and style. We use clear and plain language to crea
 
 ## Values
 
-discover, explore, initiative
+### Discover and explore <!-- omit in toc -->
+We give our users everything they need, instantly. Think about it, you're riding on a tram or in a car and suddenly you hear a song that makes your day. You want to save it so you can go back to that moment.  
+This is what we do.
+
+![Astronaut listening to music next to the van, source: https://pin.it/4UBHyX38x](../links/AstroVan.png)
+
+### One team with the user <!-- omit in toc -->
+We would like to be like a good friend who recommends a good music playlist, hugs when bad days come and gives energy when the sun rises.  
+We all simply know what our user - friend needs.
+
+![Astronaut playing basketball, source: https://pin.it/GjPUV6jDr](../links/TeamPlayer.png)
+
+### Take the initiative to change <!-- omit in toc -->
+At Shazam, we're not afraid of change. We create them to improve our products. Continuous improvement is our responsibility.
+
+![Astronaut with guitar, source: https://pin.it/7aR1stiz1](../links/Initiative.png)
 
 ## Vocabulary
 

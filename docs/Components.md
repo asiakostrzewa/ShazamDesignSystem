@@ -30,29 +30,23 @@ Find below the available button combinations that can be used to create call-to-
 
 ![Possible button designs](../links/ButtonDesigns.png)
 
-### Forward button <!-- omit in toc -->
+### Forward button ![Forward button as right arrow](../links/ForwardButton.png) <!-- omit in toc -->
 
 Forward button (also Next button) is usually placed on a toolbar or navigation bar and allows users to move forward to the next screen or webpage.
 Use the right arrow to this button.
-
-![Visualization of forward button with right arrow](../links/ForwardButton.png)
 
 ### More button ![More button](../links/MoreButton.png) <!-- omit in toc -->
 
 More button refers to the ellipsis button that opens a menu with additional options.
 
-### Back button <!-- omit in toc -->
+### Back button ![Back button as left arrow](../links/BackButton.png) <!-- omit in toc -->
 
 Back button is usually placed on a toolbar or navigation bar and allows users to return to the previous screen or webpage.
 Use the left arrow to this button.
 
-![Visualization of back button with left arrow](../links/BackButton.png)
-
-### Close button <!-- omit in toc -->
+### Close button ![Close button](../links/CloseButton.png) <!-- omit in toc -->
 
 Close button refers to the rightmost window controls button, located in the upper right corner of the title bar.
-
-![Visualization of close button](../links/CloseButton.png)
 
 ## Card
 

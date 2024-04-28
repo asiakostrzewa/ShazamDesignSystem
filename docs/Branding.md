@@ -16,8 +16,7 @@ Our brand reflects who we are and how we want our users to feel when they use ou
 - [Mission](#mission)
 - [Tone of voice](#tone-of-voice)
 - [Values](#values)
-- [Vocabulary](#vocabulary)
-- [Writing styles](#writing-styles)
+- [Writing style](#writing-style)
 
 ---
 
@@ -56,6 +55,17 @@ At Shazam, we're not afraid of change. We create them to improve our products. C
 
 ![Astronaut with guitar, source: https://pin.it/7aR1stiz1](../links/Initiative.png)
 
-## Vocabulary
+## Writing style
 
-## Writing styles
+Our writing style should reflect our values, mission and tone of voice.
+
+### Be positive and open <!-- omit in toc -->
+
+Focus on details to keep confidence in our products. Maintain a consistent narrative in all our brand communications and across platforms to ensure a great user experience. Assure users that they can explore and expect a reliable experience. Accompany them on their journey and emphasize important features and new functions. 
+
+### Be a superhero <!-- omit in toc -->
+Motivate user to use Shazam products. Provide helpful tips to guide users in the right direction. Understand what challenges users need and what they want to achieve. Then give appropriate hints.
+
+### Be professional with a bit of charm <!-- omit in toc -->
+
+Show short but enough information to start using our products. Get straight to the point and be direct. Be helpful, but not intrusive. Hint the exciting possibilities ahead, then step back and observe. Provide clear, useful content and build friendships. Use universally understandable language to ensure inclusivity.

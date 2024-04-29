@@ -22,6 +22,44 @@ Our brand reflects who we are and how we want our users to feel when they use ou
 
 ## Inclusive language
 
+We don't use words, sentences and tones that reflect stereotypical or discriminatory views about people.  
+Treat all people fairly, no matter where they come from or what they do.
+
+### What is inclusive language? <!-- omit in toc -->
+
+Inclusive language is using words and tones that respect everyone and avoid stereotypes or discrimination.  
+We prioritize "people-first language". This means focusing on persons, not labels such as gender, race or ability.
+
+### Abilities and disabilities <!-- omit in toc -->
+
+Focus on the person, not at their the disability.
+Don't treat disability as a characteristic of a person.
+
+### Ageism <!-- omit in toc -->
+
+Inclusive language is also sensitive to the entire age range. Terms like "older" and "younger" shouldn't be used in context.  
+Avoid terms that limit and categorize. 
+
+### Culture and faith <!-- omit in toc -->
+
+We are a multicultural company, so we should respect cultural values ​​and traditions in our mutual lives.
+
+{: .note } 
+Avoid using words related to religion.  
+Try not to use language that focuses only on the culture's values and traditions or that creates divisions between different groups.
+
+### Race <!-- omit in toc -->
+
+Avoid emphasizing differences between people. Don't stereotype or make generalizations.
+
+### Sexism <!-- omit in toc -->
+
+Use gender neutral language. Don’t use sexual references.
+
+### Vulgar language <!-- omit in toc -->
+
+Don't use profanity as it may cause offense. If you're referring to song title that contains a vulgar language, then use [quote rules](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Branding.html#quotes).
+
 ## Language and grammar
 
 Apply the following rules to make your content clear, consistent and reliable.
@@ -108,7 +146,7 @@ Be case-sensitive in titles and headings. Don’t use bold, italics and periods 
 
 ### When everything else fails <!-- omit in toc -->
 
-follow the [Apple Style Guide](https://support.apple.com/pl-pl/guide/applestyleguide/welcome/web)
+follow the [Apple Style Guide](https://support.apple.com/pl-pl/guide/applestyleguide/welcome/web){:target="_blank"}.
 
 ## Mission
 

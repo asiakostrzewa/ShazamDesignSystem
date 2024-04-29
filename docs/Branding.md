@@ -58,7 +58,7 @@ Use gender neutral language. Don’t use sexual references.
 
 ### Vulgar language <!-- omit in toc -->
 
-Don't use profanity as it may cause offense. If you're referring to song title that contains a vulgar language, then use [quote rules](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Branding.html#quotes).
+Don't use profanity as it may cause offense. If you're referring to song title that contains a vulgar language, then use [quote rules](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Branding.html#quotes-).
 
 ## Language and grammar
 

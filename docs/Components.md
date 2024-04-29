@@ -450,7 +450,7 @@ Accessibility sizes
 
 Rules for combining our brand colors with our brand fonts depend largely on the background color.
 
-See [System backgrounds](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#system-backgrounds) and [System colors](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#system-colors).
+See [System backgrounds](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#system-backgrounds-) and [System colors](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#system-colors-).
 
 The tables below describe the acceptable font style and color - depending on the background color:
 

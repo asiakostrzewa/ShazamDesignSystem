@@ -32,25 +32,25 @@ Find below the available button combinations that can be used to create call-to-
 
 ### Forward button ![Forward button as right arrow](../links/ForwardButton.png) <!-- omit in toc -->
 
-Forward button (also Next button) is usually placed on a toolbar or navigation bar and allows users to move forward to the next screen or webpage.
-Use the right arrow to this button.
+The forward button (also Next button) is usually placed on a toolbar or navigation bar and allows users to move forward to the next screen or webpage.
+Use the arrow pointing right to this button.
 
 ### More button ![More button](../links/MoreButton.png) <!-- omit in toc -->
 
-More button refers to the ellipsis button that opens a menu with additional options.
+The more button refers to the ellipsis button that opens a menu with additional options.
 
 ### Back button ![Back button as left arrow](../links/BackButton.png) <!-- omit in toc -->
 
-Back button is usually placed on a toolbar or navigation bar and allows users to return to the previous screen or webpage.
-Use the left arrow to this button.
+The back button is usually placed on a toolbar or navigation bar and allows users to return to the previous screen or webpage.
+Use the arrow pointing left to this button.
 
 ### Close button ![Close button](../links/CloseButton.png) <!-- omit in toc -->
 
-Close button refers to the rightmost window controls button, located in the upper right corner of the title bar.
+The close button refers to the rightmost window controls button, located in the upper right corner of the title bar.
 
 ## Card
 
-Card is a user interface element that contains information and actions related to a single topic. They allow users to easily discover content and features.
+The card is a user interface element that contains information and actions related to a single topic. They allow users to easily discover content and features.
 
 {: .note }
 Cards look good on any screen size and resolution, but nevertheless, remember to test their responsiveness.
@@ -60,8 +60,8 @@ Cards look good on any screen size and resolution, but nevertheless, remember to
 
 ### UI card design principles <!-- omit in toc -->
 1. Efficiency - cards contain only necessary information and actions;
-2. Meaningfulness – cards contain information that helps the users make a decision;
-3. Clarity - content of the card should have a clear visual hierarchy;
+2. Meaningfulness - cards contain information that helps the users make a decision;
+3. Clarity - the content of the card should have a clear visual hierarchy;
 4. Independence - card should be self-contained;
 5. Responsiveness - cards can resize to fit the available space.
 
@@ -72,7 +72,7 @@ Use cards for dashboards, menu options and items that can best be perceived visu
 Don't use cards when content should be sorted or filtered.
 
 ### Rules in the card UI <!-- omit in toc -->
-1. **Use appropriate image** to represent the card's theme.
+1. **Use an appropriate image** to represent the card's theme.
 2. **Prioritize text information** by limiting its content to the necessary minimum. Also, avoid scrolling the text on the card.
 3. **Give clear call-to-action(s)**. If needed, you can use the primary and secondary buttons to help users make decisions.  
 
@@ -148,18 +148,18 @@ Never use system colors as a backgrounds.
 
 ## Dates
 
-According to [International Organization for Standardization (ISO)](https://www.iso.org){:target="_blank"}, ISO 8601 standard, dates are expressed numerically as year, month, day and are separated by a hyphen. Times are expressed on a 24-hour clock.
+According to [International Organization for Standardization (ISO)](https://www.iso.org){:target="_blank"}, ISO 8601 standard, dates are expressed numerically as year, month, day and are separated by a hyphen. Times are expressed on a 24-hour clock. Unless local regulations require otherwise.
 
 Use the date component from [Apple Design Resources](https://developer.apple.com/design/resources/){:target="_blank"} for Shazam app:
 
 ![Dates properties](../links/Dates.PNG)
 
 {: .warning }
-Don’t use slashes in dates: the form 3/5/22 is used in America, which is different from the European one.
+Don’t use slashes in dates: the 3/5/22 format is used in America, which is different from the European one.
 
 ## Symbols and icons
 
-Symbols and icons are screen graphics that represents another item. Used in Shazam applications must be clear and recognizable.
+Symbols and icons are screen graphics that represent another item. When used in Shazam applications, they must be clear and recognizable.
 
 App navigation symbols and action buttons are built based on the [Apple Design Resources](https://developer.apple.com/design/resources/){:target="_blank"} and [Apple SF Symbols](https://developer.apple.com/sf-symbols/){:target="_blank"}.
 
@@ -201,7 +201,7 @@ The goal is always to proudly project our brand, but without overdoing it. So wh
 
 #### Logo options <!-- omit in toc -->
 
-The Shazam logo is available in two colors: blue and gray. The blue version is dedicated to a light theme. The gray version should be used on dark theme.
+The Shazam logo is available in two colors: blue and gray. The blue version is intended for use with light themes. The gray version should be used on dark themes.
 
 | Light theme logo icons | Dark theme logo icons |
 | :-----------: | :-----------: |
@@ -210,7 +210,7 @@ The Shazam logo is available in two colors: blue and gray. The blue version is d
 
 ## Toggles
 
-The object that users slide to turn the feature on or off.
+Toggles are objects that users slide to turn the feature on or off.
 Depending on the context, users may click, tap or drag a toggle.
 
 ![Toggles explanation](../links/Toggles.PNG)

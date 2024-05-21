@@ -32,7 +32,7 @@ We prioritize "people-first language". This means focusing on persons, not label
 
 ### Abilities and disabilities <!-- omit in toc -->
 
-Focus on the person, not at their the disability.
+Focus on the person, not their disability.
 Don't treat disability as a characteristic of a person.
 
 ### Ageism <!-- omit in toc -->
@@ -42,7 +42,7 @@ Avoid terms that limit and categorize.
 
 ### Culture and faith <!-- omit in toc -->
 
-We are a multicultural company, so we should respect cultural values ​​and traditions in our mutual lives.
+We are a multicultural company, so we should respect cultural values ​​and traditions in our common life.
 
 {: .note } 
 Avoid using words related to religion.  
@@ -58,7 +58,7 @@ Use gender neutral language. Don’t use sexual references.
 
 ### Vulgar language <!-- omit in toc -->
 
-Don't use profanity as it may cause offense. If you're referring to song title that contains a vulgar language, then use [quote rules](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Branding.html#quotes-).
+Don't use profanity as it may cause offense. If you're referring to song title that contains vulgar language, then use [quote rules](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Branding.html#quotes-).
 
 ## Language and grammar
 
@@ -87,18 +87,18 @@ Don’t use colons at the end of titles and headings.
 
 ### Date and time <!-- omit in toc -->
 
-According to [International Organization for Standardization (ISO)](https://www.iso.org){:target="_blank"}, ISO 8601 standard, dates are expressed numerically as year, month, day and are separated by a hyphen. Times are expressed on a 24-hour clock.
+According to [International Organization for Standardization (ISO)](https://www.iso.org){:target="_blank"}, ISO 8601 standard, dates are expressed numerically as year, month, day and are separated by a hyphen. Times are expressed on a 24-hour clock. Unless local regulations require otherwise.
 
 {: .warning }
-Don’t use slashes in dates: the form 3/5/22 is used in America, which is different from the European one.
+Don’t use slashes in dates: the 3/5/22 format is used in America, which is different from the European one.
 
 ### Exclamation marks <!-- omit in toc -->
 
-Don't use exclamation marks, unless it means something exciting or new. If possible, it's best to stick to at most just one per page.
+Don’t use exclamation marks, unless to highlight something exciting or new. If possible, it's best to stick to at most just one per page.
 
 ### Gender <!-- omit in toc -->
 
-Avoid gender-specific pronouns. If you can't, then using they/them would be better than he/she/her/his.
+Avoid gender-specific pronouns. If necessary, use they/them instead of he/she/her/his.
 
 ### Italics <!-- omit in toc -->
 
@@ -124,9 +124,11 @@ Use numbered lists for steps or when the order of items is important.
 
 Don't use an Oxford comma before "and" for the last item in a list.
 
-{: .note }
-**Yes**: *Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.*  
-**No**: *Only one additional system color can be used with SystemBlack, SystemWhite, and SystemGrey per page.*
+{: .good }
+*Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.*
+
+{: .warning }
+*Only one additional system color can be used with SystemBlack, SystemWhite, and SystemGrey per page.*
 
 ### Periods <!-- omit in toc -->
 
@@ -156,20 +158,20 @@ We are constantly looking for new and innovative ways to delight our users.
 
 ## Tone of voice
 
-As a company, we would like to keep things casual and friendly. If Shazam were a person, she/he would be up to date with pop culture, funny and not taking themselves too seriously.
+As a company, we would like to keep things casual and friendly. If Shazam were a person, they would be up to date with pop culture, funny and not taking themselves too seriously.
 
 Our content covers our values and style. We use clear and plain language to create messages that users know and direct them where they need to go.
 
 ## Values
 
 ### Discover and explore <!-- omit in toc -->
-We give our users everything they need, instantly. Think about it, you're riding on a tram or in a car and suddenly you hear a song that makes your day. You want to save it so you can go back to that moment.  
+We give our users everything they need, instantly. Imagine you're riding on a tram or in a car and suddenly you hear a song that makes your day. You want to save it so you can go back to that moment.  
 This is what we do.
 
 ![Astronaut listening to music next to the van, source: https://pin.it/4UBHyX38x](../links/AstroVan.png)
 
 ### One team with the user <!-- omit in toc -->
-We would like to be like a good friend who recommends a good music playlist, hugs when bad days come and gives energy when the sun rises.  
+We would like to be like a good friend who recommends a good music playlist, offers hugs when bad days come and gives energy when the sun rises.  
 We all simply know what our user - friend needs.
 
 ![Astronaut playing basketball, source: https://pin.it/GjPUV6jDr](../links/TeamPlayer.png)
@@ -188,8 +190,8 @@ Our writing style should reflect our values, mission and tone of voice.
 Focus on details to keep confidence in our products. Maintain a consistent narrative in all our brand communications and across platforms to ensure a great user experience. Assure users that they can explore and expect a reliable experience. Accompany them on their journey and emphasize important features and new functions. 
 
 ### Be a superhero <!-- omit in toc -->
-Motivate user to use Shazam products. Provide helpful tips to guide users in the right direction. Understand what challenges users need and what they want to achieve. Then give appropriate hints.
+Motivate users to use Shazam products. Provide helpful tips to guide users in the right direction. Understand what challenges users need and what they want to achieve. Then give appropriate hints.
 
 ### Be professional with a bit of charm <!-- omit in toc -->
 
-Show short but enough information to start using our products. Get straight to the point and be direct. Be helpful, but not intrusive. Hint the exciting possibilities ahead, then step back and observe. Provide clear, useful content and build friendships. Use universally understandable language to ensure inclusivity.
+Provide enough information to start using our products. Get straight to the point and be direct. Be helpful, but not intrusive. Hint the exciting possibilities ahead, then step back and observe. Provide clear, useful content and build friendships. Use universally understandable language to ensure inclusivity.

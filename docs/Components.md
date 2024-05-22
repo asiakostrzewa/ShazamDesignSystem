@@ -55,15 +55,15 @@ The card is a user interface element that contains information and actions relat
 {: .note }
 Cards look good on any screen size and resolution, but nevertheless, remember to test their responsiveness.
 
-### Anatomy of card <!-- omit in toc -->
+### Anatomy of a card <!-- omit in toc -->
 ![Visualization of basic card elements](../links/AnatomyOfCard.png)
 
 ### UI card design principles <!-- omit in toc -->
-1. Efficiency - cards contain only necessary information and actions;
-2. Meaningfulness - cards contain information that helps the users make a decision;
-3. Clarity - the content of the card should have a clear visual hierarchy;
-4. Independence - card should be self-contained;
-5. Responsiveness - cards can resize to fit the available space.
+- Efficiency - cards contain only necessary information and actions;
+- Meaningfulness - cards contain information that helps the users make a decision;
+- Clarity - the content of the card should have a clear visual hierarchy;
+- Independence - card should be self-contained;
+- Responsiveness - cards can resize to fit the available space.
 
 {: .good } 
 Use cards for dashboards, menu options and items that can best be perceived visually.
@@ -72,14 +72,14 @@ Use cards for dashboards, menu options and items that can best be perceived visu
 Don't use cards when content should be sorted or filtered.
 
 ### Rules in the card UI <!-- omit in toc -->
-1. **Use an appropriate image** to represent the card's theme.
-2. **Prioritize text information** by limiting its content to the necessary minimum. Also, avoid scrolling the text on the card.
-3. **Give clear call-to-action(s)**. If needed, you can use the primary and secondary buttons to help users make decisions.  
+- **Use an appropriate image** to represent the card's theme.
+- **Prioritize text information** by limiting its content to the necessary minimum. Avoid scrolling the text on the card.
+- **Give clear call-to-action(s)**. If necessary, use the primary and secondary buttons to help users make decisions.  
 
 ![Visualization of primary and secondary buttons](../links/PrimarySecondaryButtons.png)
 
-4. **Use simple fonts**. Our SF Pro Display sans-serif font meets this principle.
-5. **Design responsive cards**. Available types of responsible cards:
+- **Use simple fonts**. Our SF Pro Display sans-serif font meets this principle.
+- **Design responsive cards**. Available types of responsible cards:
 
 ![Available types of responsible cards](../links/ResponsiveCards.png)
 
@@ -103,7 +103,7 @@ Shazam SystemBlue signals discovery, reliability and confidence. Together with S
 ### Secondary colors <!-- omit in toc -->
 
 Secondary colors should be used for subtle decorative purposes.  
-Gray tone shows strength, stability and patience.  
+Grey tone shows strength, stability and patience.  
 Light blue signals freshness, reliability and youth.
 
 | SystemBlack | SystemGrey | SystemCyan |
@@ -201,7 +201,7 @@ The goal is always to proudly project our brand, but without overdoing it. So wh
 
 #### Logo options <!-- omit in toc -->
 
-The Shazam logo is available in two colors: blue and gray. The blue version is intended for use with light themes. The gray version should be used on dark themes.
+The Shazam logo is available in two colors: blue and grey. The blue version is intended for use with light themes. The grey version should be used on dark themes.
 
 | Light theme logo icons | Dark theme logo icons |
 | :-----------: | :-----------: |
@@ -223,7 +223,7 @@ Use "*turn on/off*" or "*switch between*" instead of "*toggle*".
 
 ## Typography
 
-Follow this section for detailed guidelines on application of the different size, weight and color options.
+Follow this section for detailed guidelines on the application of the different size, weight and color options.
 
 SF Pro Display is a sans-serif font that is modern and provides clear and easy reading in all different weight options.
 

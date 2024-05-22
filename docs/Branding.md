@@ -172,7 +172,7 @@ This is what we do.
 
 ### One team with the user <!-- omit in toc -->
 We would like to be like a good friend who recommends a good music playlist, offers hugs when bad days come and gives energy when the sun rises.  
-We all simply know what our user - friend needs.
+We simply understand the needs of our user - friend.
 
 ![Astronaut playing basketball, source: https://pin.it/GjPUV6jDr](../links/TeamPlayer.png)
 
@@ -194,4 +194,4 @@ Motivate users to use Shazam products. Provide helpful tips to guide users in th
 
 ### Be professional with a bit of charm <!-- omit in toc -->
 
-Provide enough information to start using our products. Get straight to the point and be direct. Be helpful, but not intrusive. Hint the exciting possibilities ahead, then step back and observe. Provide clear, useful content and build friendships. Use universally understandable language to ensure inclusivity.
+Provide enough information to start using our products. Get straight to the point and be direct. Be helpful, but not intrusive. Hint at the exciting possibilities ahead, then step back and observe. Provide clear, useful content and build friendships. Use universally understandable language to ensure inclusivity.

@@ -1,5 +1,5 @@
 ﻿---
-title: Branding PL
+title: Branding PL translation
 layout: default
 nav_order: 5
 ---

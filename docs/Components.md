@@ -127,7 +127,7 @@ System colors have been designed to highlight a specific message or element. The
 
 {: .note }
 Note that only one system color can be used at a time.  
-Never mix system colors. Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.
+Never mix system colors. Only one additional system color per page can be used with SystemBlack, SystemWhite and SystemGrey.
 
 {: .warning }
 Don’t use color to convey positive or negative qualities.  
@@ -144,7 +144,7 @@ Shazam uses light and dark Apple system modes.
 | HEX #000000 | HEX #FFFFFF        |
 
 {: .warning }
-Never use system colors as a backgrounds.
+Never use system colors as backgrounds.
 
 ## Dates
 

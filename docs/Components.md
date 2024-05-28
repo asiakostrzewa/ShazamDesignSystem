@@ -78,7 +78,7 @@ Don't use cards when content should be sorted or filtered.
 
 ![Visualization of primary and secondary buttons](../links/PrimarySecondaryButtons.png)
 
-- **Use simple fonts**. Our [SF Pro Display](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#typography-)) sans-serif font meets this principle.
+- **Use simple fonts**. Our [SF Pro Display](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#typography-) sans-serif font meets this principle.
 - **Design responsive cards**. Available types of responsive cards:
 
 ![Available types of responsible cards](../links/ResponsiveCards.png)

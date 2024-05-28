@@ -50,7 +50,7 @@ The close button refers to the rightmost window controls button, located in the 
 
 ## Card
 
-The card is a user interface element that contains information and actions related to a single topic. They allow users to easily discover content and features.
+The card is a user interface element that contains information and actions related to a single topic. Cards allow users to easily discover content and features.
 
 {: .note }
 Cards look good on any screen size and resolution, but nevertheless, remember to test their responsiveness.
@@ -78,8 +78,8 @@ Don't use cards when content should be sorted or filtered.
 
 ![Visualization of primary and secondary buttons](../links/PrimarySecondaryButtons.png)
 
-- **Use simple fonts**. Our SF Pro Display sans-serif font meets this principle.
-- **Design responsive cards**. Available types of responsible cards:
+- **Use simple fonts**. Our [SF Pro Display](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#typography-)) sans-serif font meets this principle.
+- **Design responsive cards**. Available types of responsive cards:
 
 ![Available types of responsible cards](../links/ResponsiveCards.png)
 

@@ -106,7 +106,7 @@ Use italics for quotes or when defining a term. Don't use italics to emphasize s
 
 ### Letter case <!-- omit in toc -->
 
-Make all titles, headings and components (such as labels or buttons) case-sensitive. Remember to capitalize Shazam.
+Start all titles, headings and components (such as labels or buttons) with a capital letter. Remember to capitalize Shazam.
 
 ### Lists <!-- omit in toc -->
 
@@ -144,7 +144,7 @@ Keep your sentences as short and simple as possible to avoid complicated text an
 
 ### Titles and headings <!-- omit in toc -->
 
-Be case-sensitive in titles and headings. Don’t use bold, italics and periods in titles and headings.
+Capitalize titles and headings. Don’t use bold, italics and periods in titles and headings.
 
 ### For anything not listed here <!-- omit in toc -->
 

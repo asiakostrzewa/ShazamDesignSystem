@@ -127,7 +127,7 @@ System colors have been designed to highlight a specific message or element. The
 
 {: .note }
 Note that only one system color can be used at a time.  
-Never mix system colors. Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.
+Never mix system colors. Only one additional system color per page can be used with SystemBlack, SystemWhite and SystemGrey.
 
 {: .warning }
 Don’t use color to convey positive or negative qualities.  
@@ -144,7 +144,7 @@ Shazam uses light and dark Apple system modes.
 | HEX #000000 | HEX #FFFFFF        |
 
 {: .warning }
-Never use system colors as a backgrounds.
+Never use system colors as backgrounds.
 
 ## Dates
 
@@ -223,14 +223,11 @@ Use "*turn on/off*" or "*switch between*" instead of "*toggle*".
 
 ## Typography
 
-Follow this section for detailed guidelines on the application of the different size, weight and color options.
-
 SF Pro Display is a sans-serif font that is modern and provides clear and easy reading in all different weight options.
 
 ![Weights of font SF Pro Display](../links/Typography_font.PNG)
 
 ### Weights <!-- omit in toc -->
-There are specific rules about what weights should be used and where they fit.
 
 SF Pro is available in a variety of weights to suit different applications. Make sure to place your text and use spacing and kerning to ensure uninterrupted readability and clarity.
 
@@ -452,7 +449,7 @@ Rules for combining our brand colors with our brand fonts depend largely on the 
 
 See [System backgrounds](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#system-backgrounds-) and [System colors](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#system-colors-).
 
-The tables below describe the acceptable font style and color - depending on the background color:
+The tables below describe the acceptable font style and color:
 
 - for light system background:  
 
@@ -476,4 +473,4 @@ System colors should be used sparingly.
 
 {: .warning }
 Never use system colors for text in an image.  
-Never mix system colors. Only one additional system color can be used with SystemBlack, SystemWhite and SystemGrey per page.
+Never mix system colors. Only one additional system color per page can be used with SystemBlack, SystemWhite and SystemGrey.

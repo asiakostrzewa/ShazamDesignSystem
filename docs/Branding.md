@@ -146,7 +146,7 @@ Keep your sentences as short and simple as possible to avoid complicated text an
 
 Be case-sensitive in titles and headings. Don’t use bold, italics and periods in titles and headings.
 
-### When everything else fails <!-- omit in toc -->
+### For everything not listed here <!-- omit in toc -->
 
 follow the [Apple Style Guide](https://support.apple.com/pl-pl/guide/applestyleguide/welcome/web){:target="_blank"}.
 

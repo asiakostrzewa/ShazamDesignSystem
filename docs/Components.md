@@ -78,7 +78,8 @@ Don't use cards when content should be sorted or filtered.
 
 ![Visualization of primary and secondary buttons](../links/PrimarySecondaryButtons.png)
 
-- **Use simple fonts**. Our [SF Pro Display](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#typography-) sans-serif font meets this principle.
+- **Use simple fonts**. Our [SF Pro Display](https://asiakostrzewa.github.io/ShazamDesignSystem/docs/Components.html#typography) sans-serif font meets this principle.
+
 - **Design responsive cards**. Available types of responsive cards:
 
 ![Available types of responsible cards](../links/ResponsiveCards.png)
@@ -148,14 +149,14 @@ Never use system colors as backgrounds.
 
 ## Dates
 
-According to [International Organization for Standardization (ISO)](https://www.iso.org){:target="_blank"}, ISO 8601 standard, dates are expressed numerically as year, month, day and are separated by a hyphen. Times are expressed on a 24-hour clock. Unless local regulations require otherwise.
+According to [ISO 8601 standard](https://www.iso.org/iso-8601-date-and-time-format.html){:target="_blank"}, dates are expressed numerically as year, month, day and are separated by a hyphen. Times are expressed on a 24-hour clock. Unless local regulations require otherwise.
 
 Use the date component from [Apple Design Resources](https://developer.apple.com/design/resources/){:target="_blank"} for Shazam app:
 
 ![Dates properties](../links/Dates.PNG)
 
 {: .warning }
-Don’t use slashes in dates: the 3/5/22 format is used in America, which is different from the European one.
+Don’t use slashes in dates: the 3/5/22 format is used in America, which is different from the European standard.
 
 ## Symbols and icons
 

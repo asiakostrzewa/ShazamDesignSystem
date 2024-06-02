@@ -87,10 +87,10 @@ Don’t use colons at the end of titles and headings.
 
 ### Date and time <!-- omit in toc -->
 
-According to [International Organization for Standardization (ISO)](https://www.iso.org){:target="_blank"}, ISO 8601 standard, dates are expressed numerically as year, month, day and are separated by a hyphen. Times are expressed on a 24-hour clock. Unless local regulations require otherwise.
+According to [ISO 8601 standard](https://www.iso.org/iso-8601-date-and-time-format.html){:target="_blank"}, dates are expressed numerically as year, month, day and are separated by a hyphen. Times are expressed on a 24-hour clock. Unless local regulations require otherwise.
 
 {: .warning }
-Don’t use slashes in dates: the 3/5/22 format is used in America, which is different from the European one.
+Don’t use slashes in dates: the 3/5/22 format is used in America, which is different from the European standard.
 
 ### Exclamation marks <!-- omit in toc -->
 

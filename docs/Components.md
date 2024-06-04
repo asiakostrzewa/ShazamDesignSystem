@@ -30,6 +30,8 @@ Find below the available button combinations that can be used to create call-to-
 
 ![Possible button designs](../links/ButtonDesigns.png)
 
+The following buttons apply to both system modes (dark and light):
+
 ### Forward button ![Forward button as right arrow](../links/ForwardButton.png) <!-- omit in toc -->
 
 The forward button (also Next button) is usually placed on a toolbar or navigation bar and allows users to move forward to the next screen or webpage.
